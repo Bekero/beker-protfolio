@@ -18,5 +18,8 @@
         "titleBar.inactiveBackground": "#d3d8b599",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#d3d8b5"
+    "peacock.color": "#d3d8b5",
+    "cSpell.words": [
+        "Visualstudiocode"
+    ]
 }
